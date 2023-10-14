@@ -14,4 +14,4 @@ El `console.log` que he escrito para que tenga el resultado en consola deseado e
 
 Teniendo como resultado del primer grupo:
 
-<span style="font-weight: 600; font-size: 16px; color: green;">The Beatles</span> / 1960 / Activo: true / 🎵 Pop Rock
+<img src="./src/images/captura-modulo03.png" width="450"/>
